@@ -1,0 +1,233 @@
+﻿@model IEnumerable<Customer.Models.Customer>
+
+                      <h2></h2>
+                      <form method="post" action="@Url.Action("ApplyFilters", "Customers")">
+                          <table class="form-horizontal">
+                              <tr>
+                                  <td>
+                                      <table>
+                                          <tr>
+                                              <td align="right">@Html.Label("Name:")</td>
+                                              @*<td>@Html.TextBox("name", null, new { @class = "form-control" })</td>*@
+                                              <td><input type="text" id="txtName" name="name" class="form-control" /></td>
+
+                                              <td align="right">@Html.Label("Gender:")</td>
+                                              <td>
+                                                  <select id="cboGender" name="gender" class="form-control">
+                                                      <option value=""></option>
+                                                      @foreach (var gender in ViewBag.Genders)
+                                                      {
+                                                          <option value="@gender.Id">@gender.Name</option>
+                                                      }
+                                                  </select>
+                                              </td>
+
+                                          </tr>
+                                          <tr>
+                                              <td align="right">@Html.Label("City:")</td>
+                                              <td>
+                                                  <select id="cboCities" name="city" class="form-control">
+                                                      <option value=""></option>
+                                                      @foreach (var city in ViewBag.Cities)
+                                                      {
+                                                          <option value="@city.Id">@city.Name</option>
+                                                      }
+                                                  </select>
+                                              </td>
+
+                                              <td align="right">@Html.Label("Region:")</td>
+                                              <td>
+                                                  <select id="cboRegion" name="region" class="form-control">
+                                                      <option value=""></option>
+                                                      @foreach (var region in ViewBag.Regions)
+                                                      {
+                                                          <option value="@region.Id">@region.Name</option>
+                                                      }
+                                                  </select>
+                                              </td>
+                                          </tr>
+                                          <tr>
+                                              <td align="right">@Html.Label("Last purchase:")</td>
+                                              <td>@Html.TextBox("dateMin", null, new { @class = "datefield form-control", type = "date" })</td>
+                                              <td align="right">@Html.Label("until:")</td>
+                                              <td>@Html.TextBox("dateMax", null, new { @class = "datefield form-control", type = "date" })</td>
+                                          </tr>
+                                          <tr>
+                                              <td align="right">@Html.Label("Classification:")</td>
+                                              <td>
+                                                  <select id="cboClassification" name="classification" class="form-control">
+                                                      <option value=""></option>
+                                                      @foreach (var classification in ViewBag.Classifications)
+                                                      {
+                                                          <option value="@classification.Id">@classification.Name</option>
+                                                      }
+                                                  </select>
+                                              </td>
+                                              @if (ViewBag.Administrator == true)
+                                              {
+                                                  <td align="right">@Html.Label("Seller:")</td>
+                                                  <td>
+                                                      <select id="cboSeller" name="seller" class="form-control">
+                                                          <option value=""></option>
+                                                          @foreach (var seller in ViewBag.Sellers)
+                                                          {
+                                                              <option value="@seller.Id">@seller.Login</option>
+                                                          }
+                                                      </select>
+                                                  </td>
+                                              }
+                                          </tr>
+
+                                      </table>
+                                  </td>
+                                  <td>
+                                      <table>
+                                          <tr>
+                                              <td><input type="submit" value="Search" class="btn btn-default" /></td>
+                                          </tr>
+                                          <tr>
+                                              <td><input id="btnClearFields" type="button" value="Limpar Campos" class="btn btn-default" /></td>
+                                          </tr>
+                                      </table>
+                                  </td>
+                              </tr>
+                          </table>
+
+                      </form>
+                      <h2></h2>
+                      <table class="table">
+                          <tr>
+                              <th>
+                                  Name
+                              </th>
+                              <th>
+                                  Phone
+                              </th>
+                              <th>
+                                  Gender
+                              </th>
+                              <th>
+                                  City
+                              </th>
+                              <th>
+                                  Region
+                              </th>
+                              <th>
+                                  Last Purchase
+                              </th>
+                              <th>
+                                  Classification
+                              </th>
+                              @if (ViewBag.Administrator == true)
+                              {
+                                  <th>
+                                      Seller
+                                  </th>
+                              }
+                              <th></th>
+                          </tr>
+
+                          @foreach (var item in ViewBag.Customers)
+                          {
+                              <tr>
+                                  <td>
+                                      @item.Name
+                                  </td>
+                                  <td>
+                                      @item.Phone
+                                  </td>
+
+                                  @foreach (var gender in ViewBag.Genders)
+                                  {
+                                      if (gender.Id == item.GenderId)
+                                      {
+                                          <td>@gender.Name</td>
+                                      }
+                                  }
+
+                                  @foreach (var city in ViewBag.Cities)
+                                  {
+                                      if (city.Id == item.CityId)
+                                      {
+                                          <td>@city.Name</td>
+                                      }
+                                  }
+
+                                  @foreach (var region in ViewBag.Regions)
+                                  {
+                                      if (region.Id == item.RegionId)
+                                      {
+                                          <td>@region.Name</td>
+                                      }
+                                  }
+
+                                  <td>
+                                      @item.LastPurchase
+                                  </td>
+
+                                  @foreach (var classification in ViewBag.Classifications)
+                                  {
+                                      if (classification.Id == item.ClassificationId)
+                                      {
+                                          <td>@classification.Name</td>
+                                      }
+                                  }
+
+                                  @if (ViewBag.Administrator == true)
+                                  {
+                                      foreach (var seller in ViewBag.Sellers)
+                                      {
+                                          if (seller.Id == item.UserId)
+                                          {
+                                              <td>@seller.Login</td>
+                                          }
+                                      }
+                                  }
+
+
+                              </tr>
+                          }
+
+                      </table>
+                      <script src="/Content/jquery-3.3.1.min.js"></script>
+                      <script>
+                          $(document).ready(function () {
+
+                              $('#btnClearFields').click(function () {
+
+                                  $("#txtName").val("");
+                                  $("#cboCities").val("");
+                                  $("#cboGender").val("");
+                                  $("#cboRegion").val("");
+                                  $("#cboSeller").val("");
+                                  $("#cboClassification").val("");
+                                  $('input[name=dateMin]').val("");
+                                  $('input[name=dateMax]').val("");
+                              });
+
+
+                              $("#cboCities").change(function () {
+                                  $("#cboRegion").empty();
+                                  $.ajax({
+                                      type: 'POST',
+                                      url: '@Url.Action("GetRegions", "Customers")',
+                                      dataType: 'json',
+                                      data: { id: $("#cboCities").val() },
+
+                                      success: function (regions) {
+                                          $.each(regions,
+                                              function (i, region) {
+                                                  $("#cboRegion")
+                                                      .append('<option value="' + region.Value + '">' + region.Text + '</option>');
+                                              });
+                                      },
+                                      error: function (ex) {
+                                          alert('Failed to retrieve region.' + ex);
+                                      }
+                                  });
+                                  return false;
+                              });
+
+                          });
+                      </script>
+

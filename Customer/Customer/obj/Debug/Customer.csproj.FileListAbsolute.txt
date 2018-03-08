@@ -1,0 +1,281 @@
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\ApplicationInsights.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csc.exe
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csc.exe.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csc.rsp
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csi.exe
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csi.exe.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\csi.rsp
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.AppContext.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Console.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.IO.Compression.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.IO.FileSystem.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.IO.Pipes.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.AccessControl.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Claims.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Threading.Thread.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.ValueTuple.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Xml.XPath.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\vbc.exe
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\vbc.exe.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\vbc.rsp
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\VBCSCompiler.exe
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Customer.dll.config
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Customer.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Customer.pdb
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Antlr3.Runtime.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\EntityFramework.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\EntityFramework.SqlServer.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.Web.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.ApplicationInsights.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Newtonsoft.Json.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Helpers.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Mvc.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Optimization.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Razor.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.Deployment.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.Razor.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\WebGrease.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\EntityFramework.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\EntityFramework.SqlServer.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Helpers.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Mvc.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Optimization.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.Razor.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.Deployment.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\System.Web.WebPages.Razor.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Antlr3.Runtime.pdb
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Newtonsoft.Json.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.ApplicationInsights.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\bin\Microsoft.AI.Web.xml
+c:\users\leonardo almeida\source\repos\Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+c:\users\leonardo almeida\source\repos\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+c:\users\leonardo almeida\source\repos\Customer\Customer\obj\Debug\Customer.dll
+c:\users\leonardo almeida\source\repos\Customer\Customer\obj\Debug\Customer.pdb
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\ApplicationInsights.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.exe
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.exe.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.rsp
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.exe
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.exe.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.rsp
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.AppContext.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Collections.Immutable.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Console.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.Process.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.Compression.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.Pipes.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Reflection.Metadata.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.AccessControl.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Claims.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Threading.Thread.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.ValueTuple.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XPath.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.exe
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.exe.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.rsp
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\VBCSCompiler.exe
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\VBCSCompiler.exe.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.dll.config
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.pdb
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Antlr3.Runtime.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.SqlServer.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.DependencyCollector.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Web.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.WindowsServer.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.ApplicationInsights.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.Web.Infrastructure.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Newtonsoft.Json.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Helpers.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Mvc.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Optimization.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Razor.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Deployment.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Razor.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\WebGrease.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.SqlServer.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Helpers.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Mvc.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Optimization.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Razor.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Deployment.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Razor.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Antlr3.Runtime.pdb
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Newtonsoft.Json.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.ApplicationInsights.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.DependencyCollector.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.WindowsServer.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Web.xml
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.dll
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.pdb
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\ApplicationInsights.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.exe
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.exe.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csc.rsp
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.exe
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.exe.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\csi.rsp
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.AppContext.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Collections.Immutable.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Console.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.Process.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.Compression.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.IO.Pipes.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Reflection.Metadata.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.AccessControl.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Claims.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Threading.Thread.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.ValueTuple.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XPath.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.exe
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.exe.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\vbc.rsp
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\VBCSCompiler.exe
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\roslyn\VBCSCompiler.exe.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.dll.config
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Customer.pdb
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Antlr3.Runtime.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.SqlServer.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Agent.Intercept.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.DependencyCollector.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Web.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.WindowsServer.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.ApplicationInsights.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.Web.Infrastructure.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Newtonsoft.Json.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Helpers.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Mvc.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Optimization.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Razor.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Deployment.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Razor.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\WebGrease.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\EntityFramework.SqlServer.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Helpers.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Mvc.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Optimization.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.Razor.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Deployment.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\System.Web.WebPages.Razor.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Antlr3.Runtime.pdb
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Newtonsoft.Json.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.ApplicationInsights.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.DependencyCollector.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.WindowsServer.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\bin\Microsoft.AI.Web.xml
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.pdb
+G:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache

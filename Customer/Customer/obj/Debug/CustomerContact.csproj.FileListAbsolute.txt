@@ -1,0 +1,2 @@
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.dll
+J:\Desenvolvimento\ProvaStefanini\Customer\Customer\obj\Debug\Customer.pdb
